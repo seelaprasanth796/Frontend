@@ -1,0 +1,52 @@
+.downloadapp{
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.nav a:hover{
+    text-decoration:underline;
+    text-decoration-thickness: 3px;
+}
+.line{
+    width:100px;
+    height:4px;
+    background-color: gold;
+  
+}
+.our{
+    padding:10px;
+}
+.under{
+    padding: 10px;
+}
+.colour{
+    background-color:black;
+}
+.colour h5{
+    color: white;
+}
+.colour h4{
+    color: white;
+}
+.colour a{
+    color: white;
+    text-decoration: none;
+}
+.foot{
+    background-color: black;
+}
+.linee{
+    width:1150px;
+    height: 2px;
+    background-color: gray;
+    margin-left: 150px;
+
+}
+.lines{
+    width:100px;
+    background-color: gold;
+    height:4px;
+   margin-left: 580px;
+   margin-right: 800px;
+   padding: 0%;
+}
